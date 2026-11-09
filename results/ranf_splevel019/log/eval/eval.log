@@ -1,0 +1,81 @@
+INFO:root:Start evaluation...
+INFO:root:P0181 evaluation
+INFO:root:ITD difference (µs): 8.85551248923342
+INFO:root:ILD difference (dB): 0.8923084744039373
+INFO:root:LSD (dB): 3.598424594603359
+INFO:root:P0182 evaluation
+INFO:root:ITD difference (µs): 15.396210163652025
+INFO:root:ILD difference (dB): 0.972513099365504
+INFO:root:LSD (dB): 3.6636927353295965
+INFO:root:P0183 evaluation
+INFO:root:ITD difference (µs): 9.447674418604652
+INFO:root:ILD difference (dB): 0.7104922867224396
+INFO:root:LSD (dB): 3.2973387083146553
+INFO:root:P0184 evaluation
+INFO:root:ITD difference (µs): 17.22652885443583
+INFO:root:ILD difference (dB): 1.5062578655300312
+INFO:root:LSD (dB): 4.222749585011581
+INFO:root:P0185 evaluation
+INFO:root:ITD difference (µs): 14.723298880275626
+INFO:root:ILD difference (dB): 0.8926372642038667
+INFO:root:LSD (dB): 3.3983728501234713
+INFO:root:P0186 evaluation
+INFO:root:ITD difference (µs): 14.265719207579671
+INFO:root:ILD difference (dB): 1.3259667198381349
+INFO:root:LSD (dB): 4.023019176807904
+INFO:root:P0187 evaluation
+INFO:root:ITD difference (µs): 10.174418604651162
+INFO:root:ILD difference (dB): 0.9811976693348375
+INFO:root:LSD (dB): 3.2712047948413367
+INFO:root:P0188 evaluation
+INFO:root:ITD difference (µs): 9.017011197243757
+INFO:root:ILD difference (dB): 0.6624086444529762
+INFO:root:LSD (dB): 3.370033972475251
+INFO:root:P0189 evaluation
+INFO:root:ITD difference (µs): 17.36111111111111
+INFO:root:ILD difference (dB): 0.9634929249729844
+INFO:root:LSD (dB): 3.3768814163003813
+INFO:root:P0190 evaluation
+INFO:root:ITD difference (µs): 23.821059431524546
+INFO:root:ILD difference (dB): 1.1496923133650787
+INFO:root:LSD (dB): 4.4805005588968445
+INFO:root:P0191 evaluation
+INFO:root:ITD difference (µs): 10.309000861326444
+INFO:root:ILD difference (dB): 0.8712044227455475
+INFO:root:LSD (dB): 3.165878956965506
+INFO:root:P0192 evaluation
+INFO:root:ITD difference (µs): 10.38975021533161
+INFO:root:ILD difference (dB): 1.0030173837344767
+INFO:root:LSD (dB): 3.7081175177894687
+INFO:root:P0193 evaluation
+INFO:root:ITD difference (µs): 12.300818260120584
+INFO:root:ILD difference (dB): 0.9496310513140198
+INFO:root:LSD (dB): 3.416756699461479
+INFO:root:P0194 evaluation
+INFO:root:ITD difference (µs): 26.48578811369509
+INFO:root:ILD difference (dB): 1.0588040867438424
+INFO:root:LSD (dB): 3.3983429904255136
+INFO:root:P0195 evaluation
+INFO:root:ITD difference (µs): 15.207795004306634
+INFO:root:ILD difference (dB): 0.9049674011020656
+INFO:root:LSD (dB): 3.406645744715765
+INFO:root:P0196 evaluation
+INFO:root:ITD difference (µs): 14.265719207579673
+INFO:root:ILD difference (dB): 1.1243152730659938
+INFO:root:LSD (dB): 3.68138464670636
+INFO:root:P0197 evaluation
+INFO:root:ITD difference (µs): 31.088501291989665
+INFO:root:ILD difference (dB): 1.3377252508767254
+INFO:root:LSD (dB): 4.426068345198105
+INFO:root:P0198 evaluation
+INFO:root:ITD difference (µs): 12.166236003445306
+INFO:root:ILD difference (dB): 0.8050680937312863
+INFO:root:LSD (dB): 3.396779073330937
+INFO:root:P0199 evaluation
+INFO:root:ITD difference (µs): 7.6173557278208435
+INFO:root:ILD difference (dB): 0.8823920670894464
+INFO:root:LSD (dB): 3.380035815456684
+INFO:root:P0200 evaluation
+INFO:root:ITD difference (µs): 19.13759689922481
+INFO:root:ILD difference (dB): 1.0756198121252671
+INFO:root:LSD (dB): 4.22756693214602

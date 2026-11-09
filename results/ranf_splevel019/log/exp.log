@@ -1,0 +1,688 @@
+INFO:root:Number of trainable parameters: 1228939
+INFO:root:Start training...
+INFO:root:Epoch 0
+INFO:root:tr_loss: 26.983473844931158, dev_loss: 22.841828076735787
+INFO:root:dev lsd: 4.918299855356631
+INFO:root:dev ild diff: 1.2740556851677272
+INFO:root:dev itd diff: 17.818117409167083
+INFO:root:Epoch 1
+INFO:root:tr_loss: 24.516484175169733, dev_loss: 22.61740845804629
+INFO:root:dev lsd: 4.8947289684544435
+INFO:root:dev ild diff: 1.2486015358696814
+INFO:root:dev itd diff: 17.715095698315164
+INFO:root:Epoch 2
+INFO:root:tr_loss: 22.667123394472977, dev_loss: 21.931111451853877
+INFO:root:dev lsd: 4.741538856340491
+INFO:root:dev ild diff: 1.3498737482920937
+INFO:root:dev itd diff: 17.26590282191401
+INFO:root:Epoch 3
+INFO:root:tr_loss: 21.442664405469685, dev_loss: 22.52331599774568
+INFO:root:dev lsd: 4.700789362451305
+INFO:root:dev ild diff: 1.1662568425354751
+INFO:root:dev itd diff: 17.559461533504983
+INFO:root:Epoch 4
+INFO:root:tr_loss: 20.607986030924007, dev_loss: 22.174206302476964
+INFO:root:dev lsd: 4.6790847892346585
+INFO:root:dev ild diff: 1.2362627322259157
+INFO:root:dev itd diff: 17.049584436416627
+INFO:root:Epoch 5
+INFO:root:tr_loss: 19.96588012630071, dev_loss: 22.231822847283404
+INFO:root:dev lsd: 4.6082421696704365
+INFO:root:dev ild diff: 1.2087719772173011
+INFO:root:dev itd diff: 16.875821478470513
+INFO:root:Epoch 6
+INFO:root:tr_loss: 19.404423895975953, dev_loss: 22.458982218866762
+INFO:root:dev lsd: 4.6290162729180375
+INFO:root:dev ild diff: 1.1954609537902086
+INFO:root:dev itd diff: 16.610290282705556
+INFO:root:Epoch 7
+INFO:root:tr_loss: 18.96192421855581, dev_loss: 21.855873862556788
+INFO:root:dev lsd: 4.532006322819254
+INFO:root:dev ild diff: 1.1878500370875649
+INFO:root:dev itd diff: 16.449285196221393
+INFO:root:Epoch 8
+INFO:root:tr_loss: 18.555161153286754, dev_loss: 22.802208659959877
+INFO:root:dev lsd: 4.469909973766493
+INFO:root:dev ild diff: 1.2121740425410479
+INFO:root:dev itd diff: 17.172170481474502
+INFO:root:Epoch 9
+INFO:root:tr_loss: 18.231965851256067, dev_loss: 22.446732139587404
+INFO:root:dev lsd: 4.44125352424124
+INFO:root:dev ild diff: 1.1325014247842458
+INFO:root:dev itd diff: 17.203979560603265
+INFO:root:Epoch 10
+INFO:root:tr_loss: 17.928522826680236, dev_loss: 21.352992737811544
+INFO:root:dev lsd: 4.448498862722646
+INFO:root:dev ild diff: 1.0796229932619177
+INFO:root:dev itd diff: 16.13776244080585
+INFO:root:Epoch 11
+INFO:root:tr_loss: 17.681366037794763, dev_loss: 21.64269090320753
+INFO:root:dev lsd: 4.400702001737511
+INFO:root:dev ild diff: 1.3481135815382004
+INFO:root:dev itd diff: 16.046182827327563
+INFO:root:Epoch 12
+INFO:root:tr_loss: 17.43753092389711, dev_loss: 21.723998277083687
+INFO:root:dev lsd: 4.415617209932078
+INFO:root:dev ild diff: 1.297378410204597
+INFO:root:dev itd diff: 16.256943667453267
+INFO:root:Epoch 13
+INFO:root:tr_loss: 17.223238372227076, dev_loss: 21.247844273111095
+INFO:root:dev lsd: 4.409160451267077
+INFO:root:dev ild diff: 1.281990367433299
+INFO:root:dev itd diff: 16.094766772311665
+INFO:root:Epoch 14
+INFO:root:tr_loss: 17.028060316319916, dev_loss: 21.849956686600393
+INFO:root:dev lsd: 4.357774870292
+INFO:root:dev ild diff: 1.163858094163563
+INFO:root:dev itd diff: 16.54237925488016
+INFO:root:Epoch 15
+INFO:root:tr_loss: 16.87743731571635, dev_loss: 21.44299358284992
+INFO:root:dev lsd: 4.342006386881289
+INFO:root:dev ild diff: 1.1920545432878578
+INFO:root:dev itd diff: 16.200616283002105
+INFO:root:Epoch 16
+INFO:root:tr_loss: 16.695124840592474, dev_loss: 20.64910665595013
+INFO:root:dev lsd: 4.336355815763059
+INFO:root:dev ild diff: 1.3130896964798804
+INFO:root:dev itd diff: 15.547167695086936
+INFO:root:Epoch 17
+INFO:root:tr_loss: 16.5435853421808, dev_loss: 21.35028137124103
+INFO:root:dev lsd: 4.31841735528863
+INFO:root:dev ild diff: 1.226269802969435
+INFO:root:dev itd diff: 15.999844476451045
+INFO:root:Epoch 18
+INFO:root:tr_loss: 16.45056462575732, dev_loss: 20.336248841493028
+INFO:root:dev lsd: 4.292647089128909
+INFO:root:dev ild diff: 1.1690693073946496
+INFO:root:dev itd diff: 15.196314280966053
+INFO:root:Epoch 19
+INFO:root:tr_loss: 16.32102200155047, dev_loss: 20.819936300360638
+INFO:root:dev lsd: 4.248374444505442
+INFO:root:dev ild diff: 1.232898876330127
+INFO:root:dev itd diff: 15.25343051371367
+INFO:root:Epoch 20
+INFO:root:tr_loss: 16.1866678745454, dev_loss: 20.718872505685557
+INFO:root:dev lsd: 4.2601384100706685
+INFO:root:dev ild diff: 1.2563910459694656
+INFO:root:dev itd diff: 15.625968425170235
+INFO:root:Epoch 21
+INFO:root:tr_loss: 16.125905267189687, dev_loss: 20.772583148790442
+INFO:root:dev lsd: 4.249142055926115
+INFO:root:dev ild diff: 1.2450445294380188
+INFO:root:dev itd diff: 15.476996569011522
+INFO:root:Epoch 22
+INFO:root:tr_loss: 16.006211113402063, dev_loss: 20.377229686405347
+INFO:root:dev lsd: 4.226485339454983
+INFO:root:dev ild diff: 1.1047811829525491
+INFO:root:dev itd diff: 15.207082315113233
+INFO:root:Epoch 23
+INFO:root:tr_loss: 15.97028394819985, dev_loss: 20.793703369472336
+INFO:root:dev lsd: 4.221413351141888
+INFO:root:dev ild diff: 1.213382617287014
+INFO:root:dev itd diff: 15.388402258831523
+INFO:root:Epoch 24
+INFO:root:tr_loss: 15.859567980411306, dev_loss: 19.750084760914678
+INFO:root:dev lsd: 4.180537503698598
+INFO:root:dev ild diff: 1.129417464396228
+INFO:root:dev itd diff: 14.507375605210013
+INFO:root:Epoch 25
+INFO:root:tr_loss: 15.789269497696782, dev_loss: 20.383812688744587
+INFO:root:dev lsd: 4.175479475311611
+INFO:root:dev ild diff: 1.1770349043866863
+INFO:root:dev itd diff: 15.232010432948236
+INFO:root:Epoch 26
+INFO:root:tr_loss: 15.72341202970002, dev_loss: 20.323098472926926
+INFO:root:dev lsd: 4.1566930864168254
+INFO:root:dev ild diff: 1.0811607662750327
+INFO:root:dev itd diff: 15.351689094045888
+INFO:root:Epoch 27
+INFO:root:tr_loss: 15.680659279736954, dev_loss: 19.90045171820599
+INFO:root:dev lsd: 4.147191742192144
+INFO:root:dev ild diff: 1.1121073494786802
+INFO:root:dev itd diff: 14.915852140343707
+INFO:root:Epoch 28
+INFO:root:tr_loss: 15.634620862227811, dev_loss: 19.68670727273692
+INFO:root:dev lsd: 4.138601752986078
+INFO:root:dev ild diff: 1.093867471943731
+INFO:root:dev itd diff: 14.523477261999378
+INFO:root:Epoch 29
+INFO:root:tr_loss: 15.51927624142146, dev_loss: 19.7231585295304
+INFO:root:dev lsd: 4.116186149223991
+INFO:root:dev ild diff: 1.2368671119213104
+INFO:root:dev itd diff: 14.774902667169986
+INFO:root:Epoch 30
+INFO:root:tr_loss: 15.461751811221331, dev_loss: 19.656959446616796
+INFO:root:dev lsd: 4.138137263837068
+INFO:root:dev ild diff: 1.1684766480456228
+INFO:root:dev itd diff: 14.736246683286584
+INFO:root:Epoch 31
+INFO:root:tr_loss: 15.427610292281184, dev_loss: 20.431932718857475
+INFO:root:dev lsd: 4.115856745968694
+INFO:root:dev ild diff: 1.194184837133988
+INFO:root:dev itd diff: 15.358719390371572
+INFO:root:Epoch 32
+INFO:root:tr_loss: 15.39917241591563, dev_loss: 19.96657016588294
+INFO:root:dev lsd: 4.082816355124764
+INFO:root:dev ild diff: 1.0786509127720543
+INFO:root:dev itd diff: 15.119717231004135
+INFO:root:Epoch 33
+INFO:root:tr_loss: 15.357643984213201, dev_loss: 19.69536367913951
+INFO:root:dev lsd: 4.087974691390992
+INFO:root:dev ild diff: 1.0469613822905914
+INFO:root:dev itd diff: 14.709282360906187
+INFO:root:Epoch 34
+INFO:root:tr_loss: 15.292454306028738, dev_loss: 18.74562110486238
+INFO:root:dev lsd: 4.0682307823844575
+INFO:root:dev ild diff: 1.1196413138638373
+INFO:root:dev itd diff: 14.091865255521691
+INFO:root:Epoch 35
+INFO:root:tr_loss: 15.264791555327909, dev_loss: 19.821470360133958
+INFO:root:dev lsd: 4.073966751927915
+INFO:root:dev ild diff: 1.1174528544363769
+INFO:root:dev itd diff: 15.031216314564581
+INFO:root:Epoch 36
+INFO:root:tr_loss: 15.22929112772107, dev_loss: 19.614763637211013
+INFO:root:dev lsd: 4.063858666627303
+INFO:root:dev ild diff: 1.0918480475311694
+INFO:root:dev itd diff: 14.859518982016523
+INFO:root:Epoch 37
+INFO:root:tr_loss: 15.193641778688795, dev_loss: 19.477558898925782
+INFO:root:dev lsd: 4.056306709413943
+INFO:root:dev ild diff: 1.0419799186613248
+INFO:root:dev itd diff: 14.583389584914498
+INFO:root:Epoch 38
+INFO:root:tr_loss: 15.148444671745992, dev_loss: 19.29606879690419
+INFO:root:dev lsd: 4.029474270862082
+INFO:root:dev ild diff: 1.0448710144861886
+INFO:root:dev itd diff: 14.535977821764739
+INFO:root:Epoch 39
+INFO:root:tr_loss: 15.132559446741638, dev_loss: 19.425181579589843
+INFO:root:dev lsd: 4.059103113672007
+INFO:root:dev ild diff: 1.0122962645862414
+INFO:root:dev itd diff: 14.880364818158357
+INFO:root:Epoch 40
+INFO:root:tr_loss: 15.08918045464176, dev_loss: 19.208748518902322
+INFO:root:dev lsd: 4.025642164893772
+INFO:root:dev ild diff: 1.0735680779685144
+INFO:root:dev itd diff: 14.47333727504896
+INFO:root:Epoch 41
+INFO:root:tr_loss: 15.048557336181702, dev_loss: 19.50711676970772
+INFO:root:dev lsd: 4.051711120812789
+INFO:root:dev ild diff: 1.0794715440791587
+INFO:root:dev itd diff: 14.924474519232046
+INFO:root:Epoch 42
+INFO:root:tr_loss: 15.047569868790072, dev_loss: 18.93405868281489
+INFO:root:dev lsd: 4.018489053974981
+INFO:root:dev ild diff: 1.1006973962421003
+INFO:root:dev itd diff: 14.38258641284445
+INFO:root:Epoch 43
+INFO:root:tr_loss: 14.972963070245816, dev_loss: 19.186989498138427
+INFO:root:dev lsd: 4.016783532888993
+INFO:root:dev ild diff: 1.176986967480701
+INFO:root:dev itd diff: 14.603458889670994
+INFO:root:Epoch 44
+INFO:root:tr_loss: 14.980467306056493, dev_loss: 19.50408065630042
+INFO:root:dev lsd: 4.010893706653429
+INFO:root:dev ild diff: 1.1473712240872176
+INFO:root:dev itd diff: 15.154910850524903
+INFO:root:Epoch 45
+INFO:root:tr_loss: 14.944702389734372, dev_loss: 19.095905092488163
+INFO:root:dev lsd: 4.036551031859025
+INFO:root:dev ild diff: 1.2004527102346005
+INFO:root:dev itd diff: 14.558461771840635
+INFO:root:Epoch 46
+INFO:root:tr_loss: 14.814702426883537, dev_loss: 19.039298799763554
+INFO:root:dev lsd: 4.007965803146362
+INFO:root:dev ild diff: 1.0247784329497296
+INFO:root:dev itd diff: 14.309193617364635
+INFO:root:Epoch 47
+INFO:root:tr_loss: 14.759793738724001, dev_loss: 18.994169459135637
+INFO:root:dev lsd: 3.9843547043593035
+INFO:root:dev ild diff: 1.0681627842395203
+INFO:root:dev itd diff: 14.527784065578295
+INFO:root:Epoch 48
+INFO:root:tr_loss: 14.767732922939707, dev_loss: 18.677600802545964
+INFO:root:dev lsd: 3.9661934147710385
+INFO:root:dev ild diff: 1.0085188487301702
+INFO:root:dev itd diff: 14.041884254372638
+INFO:root:Epoch 49
+INFO:root:tr_loss: 14.711398606808853, dev_loss: 18.473007077756137
+INFO:root:dev lsd: 3.973899137455484
+INFO:root:dev ild diff: 1.0367519233537756
+INFO:root:dev itd diff: 13.93711721793465
+INFO:root:Epoch 50
+INFO:root:tr_loss: 14.693476129105873, dev_loss: 18.49579318088034
+INFO:root:dev lsd: 3.9650859739469446
+INFO:root:dev ild diff: 1.063108719561411
+INFO:root:dev itd diff: 14.01686863899231
+INFO:root:Epoch 51
+INFO:root:tr_loss: 14.654584846746035, dev_loss: 18.416409882255223
+INFO:root:dev lsd: 3.957949116955633
+INFO:root:dev ild diff: 1.1505713969469071
+INFO:root:dev itd diff: 13.958266635563062
+INFO:root:Epoch 52
+INFO:root:tr_loss: 14.663676950293528, dev_loss: 18.83218595255976
+INFO:root:dev lsd: 3.9426232420879863
+INFO:root:dev ild diff: 1.1150921536528546
+INFO:root:dev itd diff: 14.402605187374613
+INFO:root:Epoch 53
+INFO:root:tr_loss: 14.608080187074135, dev_loss: 18.566118049621583
+INFO:root:dev lsd: 3.958803877623185
+INFO:root:dev ild diff: 1.0753954709871956
+INFO:root:dev itd diff: 14.204129992360654
+INFO:root:Epoch 54
+INFO:root:tr_loss: 14.593944373984693, dev_loss: 18.48080995808477
+INFO:root:dev lsd: 3.931656362699426
+INFO:root:dev ild diff: 1.0528530276339987
+INFO:root:dev itd diff: 14.145893295951511
+INFO:root:Epoch 55
+INFO:root:tr_loss: 14.601676586887965, dev_loss: 18.35891406017801
+INFO:root:dev lsd: 3.919348679418149
+INFO:root:dev ild diff: 1.0324510286683621
+INFO:root:dev itd diff: 13.987647643296615
+INFO:root:Epoch 56
+INFO:root:tr_loss: 14.564133878205144, dev_loss: 18.28598333441693
+INFO:root:dev lsd: 3.9283156954723855
+INFO:root:dev ild diff: 1.1084455373494522
+INFO:root:dev itd diff: 13.876110008488531
+INFO:root:Epoch 57
+INFO:root:tr_loss: 14.54393960964272, dev_loss: 18.388632703864054
+INFO:root:dev lsd: 3.922579690684443
+INFO:root:dev ild diff: 1.076414857480837
+INFO:root:dev itd diff: 14.109251905524212
+INFO:root:Epoch 58
+INFO:root:tr_loss: 14.523039891686238, dev_loss: 18.205479331638504
+INFO:root:dev lsd: 3.9148756493692813
+INFO:root:dev ild diff: 1.0350179794042007
+INFO:root:dev itd diff: 13.842393157793127
+INFO:root:Epoch 59
+INFO:root:tr_loss: 14.525631337098673, dev_loss: 18.468069553375244
+INFO:root:dev lsd: 3.942234736940135
+INFO:root:dev ild diff: 1.0963978303515394
+INFO:root:dev itd diff: 14.14088940827743
+INFO:root:Epoch 60
+INFO:root:tr_loss: 14.507710559027535, dev_loss: 18.030558076112168
+INFO:root:dev lsd: 3.9016029534132586
+INFO:root:dev ild diff: 1.0018323674150136
+INFO:root:dev itd diff: 13.79031371448351
+INFO:root:Epoch 61
+INFO:root:tr_loss: 14.47751440656497, dev_loss: 18.300984457264775
+INFO:root:dev lsd: 3.8954127332438593
+INFO:root:dev ild diff: 1.0086977582910786
+INFO:root:dev itd diff: 13.966747822968856
+INFO:root:Epoch 62
+INFO:root:tr_loss: 14.49573732285912, dev_loss: 18.78911141934602
+INFO:root:dev lsd: 3.920292069600976
+INFO:root:dev ild diff: 1.0335732686778774
+INFO:root:dev itd diff: 14.497374478630398
+INFO:root:Epoch 63
+INFO:root:tr_loss: 14.471649323910535, dev_loss: 18.507826829993206
+INFO:root:dev lsd: 3.885034659634466
+INFO:root:dev ild diff: 0.9943650776925295
+INFO:root:dev itd diff: 14.338359324828438
+INFO:root:Epoch 64
+INFO:root:tr_loss: 14.427733335456617, dev_loss: 18.097599493938944
+INFO:root:dev lsd: 3.8741297794424967
+INFO:root:dev ild diff: 1.001116250390592
+INFO:root:dev itd diff: 13.778520494958629
+INFO:root:Epoch 65
+INFO:root:tr_loss: 14.434820593962487, dev_loss: 18.871211976590363
+INFO:root:dev lsd: 3.858864130144534
+INFO:root:dev ild diff: 1.0182517238285231
+INFO:root:dev itd diff: 14.677857962898585
+INFO:root:Epoch 66
+INFO:root:tr_loss: 14.45757315528225, dev_loss: 18.66222452495409
+INFO:root:dev lsd: 3.887978926948879
+INFO:root:dev ild diff: 1.0110803101373755
+INFO:root:dev itd diff: 14.327586862315302
+INFO:root:Epoch 67
+INFO:root:tr_loss: 14.398012143985127, dev_loss: 18.56567440032959
+INFO:root:dev lsd: 3.897071935819543
+INFO:root:dev ild diff: 1.122139603936154
+INFO:root:dev itd diff: 14.41314175647238
+INFO:root:Epoch 68
+INFO:root:tr_loss: 14.401533089413249, dev_loss: 18.328585603962775
+INFO:root:dev lsd: 3.884637923862623
+INFO:root:dev ild diff: 1.0453375528688016
+INFO:root:dev itd diff: 14.118678716991258
+INFO:root:Epoch 69
+INFO:root:tr_loss: 14.369122645744616, dev_loss: 18.412217791184133
+INFO:root:dev lsd: 3.83949455074642
+INFO:root:dev ild diff: 1.0238812326089195
+INFO:root:dev itd diff: 14.109507703781128
+INFO:root:Epoch 70
+INFO:root:tr_loss: 14.355858017021502, dev_loss: 17.961996700452723
+INFO:root:dev lsd: 3.8914281772530597
+INFO:root:dev ild diff: 1.0185190470322318
+INFO:root:dev itd diff: 13.852693843841553
+INFO:root:Epoch 71
+INFO:root:tr_loss: 14.363928386143275, dev_loss: 18.367382700546926
+INFO:root:dev lsd: 3.873961341899374
+INFO:root:dev ild diff: 1.0583963789369748
+INFO:root:dev itd diff: 14.125721568646638
+INFO:root:Epoch 72
+INFO:root:tr_loss: 14.328736126782669, dev_loss: 18.26664920475172
+INFO:root:dev lsd: 3.8577172652534815
+INFO:root:dev ild diff: 1.028365381385969
+INFO:root:dev itd diff: 14.003339763309645
+INFO:root:Epoch 73
+INFO:root:tr_loss: 14.338334405446197, dev_loss: 18.523639641637388
+INFO:root:dev lsd: 3.893682039302328
+INFO:root:dev ild diff: 1.1055186475100724
+INFO:root:dev itd diff: 14.281534580562425
+INFO:root:Epoch 74
+INFO:root:tr_loss: 14.322571194627635, dev_loss: 18.457462501525878
+INFO:root:dev lsd: 3.8816672719043233
+INFO:root:dev ild diff: 0.9980822056531906
+INFO:root:dev itd diff: 14.324744713824728
+INFO:root:Epoch 75
+INFO:root:tr_loss: 14.309742472301307, dev_loss: 18.192720981266188
+INFO:root:dev lsd: 3.8497328291768613
+INFO:root:dev ild diff: 1.0355932277181874
+INFO:root:dev itd diff: 14.095068218397058
+INFO:root:Epoch 76
+INFO:root:tr_loss: 14.303844251862953, dev_loss: 18.69592446451602
+INFO:root:dev lsd: 3.8436542085979295
+INFO:root:dev ild diff: 0.9945164061110953
+INFO:root:dev itd diff: 14.600571228110272
+INFO:root:Epoch 77
+INFO:root:tr_loss: 14.304551781782921, dev_loss: 18.2270163619
+INFO:root:dev lsd: 3.8422373201536097
+INFO:root:dev ild diff: 1.023515379169713
+INFO:root:dev itd diff: 14.190145550603452
+INFO:root:Epoch 78
+INFO:root:tr_loss: 14.301740033285958, dev_loss: 18.45965633392334
+INFO:root:dev lsd: 3.8723298902096954
+INFO:root:dev ild diff: 1.0101586645064147
+INFO:root:dev itd diff: 14.30267129359038
+INFO:root:Epoch 79
+INFO:root:tr_loss: 14.283748013632637, dev_loss: 17.822169453164804
+INFO:root:dev lsd: 3.8634879754937215
+INFO:root:dev ild diff: 1.0276011233744413
+INFO:root:dev itd diff: 13.706340329543403
+INFO:root:Epoch 80
+INFO:root:tr_loss: 14.269887806184334, dev_loss: 18.602982355200727
+INFO:root:dev lsd: 3.8282416758329973
+INFO:root:dev ild diff: 1.0216241015040357
+INFO:root:dev itd diff: 14.51879618893499
+INFO:root:Epoch 81
+INFO:root:tr_loss: 14.271696825142598, dev_loss: 18.390162762351657
+INFO:root:dev lsd: 3.844009192093559
+INFO:root:dev ild diff: 1.034684285003206
+INFO:root:dev itd diff: 14.327249114409737
+INFO:root:Epoch 82
+INFO:root:tr_loss: 14.244787947752586, dev_loss: 18.347077473350193
+INFO:root:dev lsd: 3.8506660616916157
+INFO:root:dev ild diff: 1.0208960328413093
+INFO:root:dev itd diff: 14.212537141468214
+INFO:root:Epoch 83
+INFO:root:tr_loss: 14.252580210956289, dev_loss: 18.241505100416102
+INFO:root:dev lsd: 3.8532784099164217
+INFO:root:dev ild diff: 0.9780572439017503
+INFO:root:dev itd diff: 14.214374556748764
+INFO:root:Epoch 84
+INFO:root:tr_loss: 14.25362021390581, dev_loss: 18.184200871509056
+INFO:root:dev lsd: 3.827061138982358
+INFO:root:dev ild diff: 1.020238730440969
+INFO:root:dev itd diff: 14.231701929672905
+INFO:root:Epoch 85
+INFO:root:tr_loss: 14.260013800031942, dev_loss: 17.81508500057718
+INFO:root:dev lsd: 3.8590481374574743
+INFO:root:dev ild diff: 0.9939831199853316
+INFO:root:dev itd diff: 13.75253477303878
+INFO:root:Epoch 86
+INFO:root:tr_loss: 14.223154985688822, dev_loss: 18.377714480524478
+INFO:root:dev lsd: 3.805283096562261
+INFO:root:dev ild diff: 0.9863746198623077
+INFO:root:dev itd diff: 14.406930651872054
+INFO:root:Epoch 87
+INFO:root:tr_loss: 14.214743233302709, dev_loss: 18.380753417637038
+INFO:root:dev lsd: 3.8255514994911524
+INFO:root:dev ild diff: 1.056150134490884
+INFO:root:dev itd diff: 14.368222130899843
+INFO:root:Epoch 88
+INFO:root:tr_loss: 14.188879881826205, dev_loss: 17.976109848851742
+INFO:root:dev lsd: 3.8061353403589
+INFO:root:dev ild diff: 0.9938492086918458
+INFO:root:dev itd diff: 14.002427366505499
+INFO:root:Epoch 89
+INFO:root:tr_loss: 14.198767473040451, dev_loss: 17.980482391689133
+INFO:root:dev lsd: 3.8466674431510595
+INFO:root:dev ild diff: 0.970799244357192
+INFO:root:dev itd diff: 14.055790656545888
+INFO:root:Epoch 90
+INFO:root:tr_loss: 14.18873618881947, dev_loss: 18.223425330286442
+INFO:root:dev lsd: 3.831488565776659
+INFO:root:dev ild diff: 0.9763183727212574
+INFO:root:dev itd diff: 14.231267002354498
+INFO:root:Epoch 91
+INFO:root:tr_loss: 14.181126327821666, dev_loss: 17.772287932686183
+INFO:root:dev lsd: 3.8068148115406863
+INFO:root:dev ild diff: 0.9729366684737413
+INFO:root:dev itd diff: 13.858896398544312
+INFO:root:Epoch 92
+INFO:root:tr_loss: 14.193209722967934, dev_loss: 17.975528878751007
+INFO:root:dev lsd: 3.8492971057477203
+INFO:root:dev ild diff: 0.9876470968775127
+INFO:root:dev itd diff: 14.145886437789253
+INFO:root:Epoch 93
+INFO:root:tr_loss: 14.15954119626665, dev_loss: 18.027345275878908
+INFO:root:dev lsd: 3.812953187071759
+INFO:root:dev ild diff: 0.9993079278780066
+INFO:root:dev itd diff: 14.017642867046854
+INFO:root:Epoch 94
+INFO:root:tr_loss: 14.160436653755081, dev_loss: 17.865271866839866
+INFO:root:dev lsd: 3.797639276670373
+INFO:root:dev ild diff: 1.0490616467983827
+INFO:root:dev itd diff: 14.003197551810223
+INFO:root:Epoch 95
+INFO:root:tr_loss: 14.140694821624448, dev_loss: 17.98420068077419
+INFO:root:dev lsd: 3.801500882273135
+INFO:root:dev ild diff: 1.0024666191443152
+INFO:root:dev itd diff: 14.040051458192908
+INFO:root:Epoch 96
+INFO:root:tr_loss: 14.14688708844559, dev_loss: 17.518327538863474
+INFO:root:dev lsd: 3.7922900780387545
+INFO:root:dev ild diff: 0.9937759817942329
+INFO:root:dev itd diff: 13.619900728308636
+INFO:root:Epoch 97
+INFO:root:tr_loss: 14.13927639706034, dev_loss: 18.43625893385514
+INFO:root:dev lsd: 3.816596860470979
+INFO:root:dev ild diff: 1.0510381977195324
+INFO:root:dev itd diff: 14.569776646987252
+INFO:root:Epoch 98
+INFO:root:tr_loss: 14.152519104226494, dev_loss: 17.926103459233822
+INFO:root:dev lsd: 3.8096985620001087
+INFO:root:dev ild diff: 0.9651580998431082
+INFO:root:dev itd diff: 14.099751829064411
+INFO:root:Epoch 99
+INFO:root:tr_loss: 14.132946008647712, dev_loss: 17.933766667739206
+INFO:root:dev lsd: 3.797366051051928
+INFO:root:dev ild diff: 1.0071397349886273
+INFO:root:dev itd diff: 13.958088992989582
+INFO:root:Epoch 100
+INFO:root:tr_loss: 14.140979925151802, dev_loss: 18.259681589707085
+INFO:root:dev lsd: 3.794748246151468
+INFO:root:dev ild diff: 0.9681128115757652
+INFO:root:dev itd diff: 14.380864815090014
+INFO:root:Epoch 101
+INFO:root:tr_loss: 14.126094687632632, dev_loss: 18.458524297631307
+INFO:root:dev lsd: 3.8086214946663897
+INFO:root:dev ild diff: 1.0043099891880285
+INFO:root:dev itd diff: 14.59159316809281
+INFO:root:Epoch 102
+INFO:root:tr_loss: 14.111923517595594, dev_loss: 17.910841357189675
+INFO:root:dev lsd: 3.7965184833692467
+INFO:root:dev ild diff: 1.0921199354140654
+INFO:root:dev itd diff: 14.040492520125015
+INFO:root:Epoch 103
+INFO:root:tr_loss: 14.112185925784965, dev_loss: 17.898767968882684
+INFO:root:dev lsd: 3.7752920047096583
+INFO:root:dev ild diff: 0.9804848845886147
+INFO:root:dev itd diff: 14.085528423475182
+INFO:root:Epoch 104
+INFO:root:tr_loss: 14.100228254943787, dev_loss: 18.301906946431036
+INFO:root:dev lsd: 3.7956084748973016
+INFO:root:dev ild diff: 0.9592992527329404
+INFO:root:dev itd diff: 14.416941673859306
+INFO:root:Epoch 105
+INFO:root:tr_loss: 14.073098973249285, dev_loss: 18.04328615769096
+INFO:root:dev lsd: 3.7993071483529133
+INFO:root:dev ild diff: 0.9970983945805093
+INFO:root:dev itd diff: 14.174474983629972
+INFO:root:Epoch 106
+INFO:root:tr_loss: 14.077662811432806, dev_loss: 18.038102021424667
+INFO:root:dev lsd: 3.780837931840316
+INFO:root:dev ild diff: 0.9842098433038463
+INFO:root:dev itd diff: 14.211773076264755
+INFO:root:Epoch 107
+INFO:root:tr_loss: 14.083378265561233, dev_loss: 17.846194399958073
+INFO:root:dev lsd: 3.8097544742667155
+INFO:root:dev ild diff: 0.9454599301452222
+INFO:root:dev itd diff: 14.006499947672305
+INFO:root:Epoch 108
+INFO:root:tr_loss: 14.012886043525558, dev_loss: 17.730506801605223
+INFO:root:dev lsd: 3.7904889542123548
+INFO:root:dev ild diff: 0.9282445678244466
+INFO:root:dev itd diff: 13.928581816217173
+INFO:root:Epoch 109
+INFO:root:tr_loss: 13.987067586219526, dev_loss: 17.607247875047765
+INFO:root:dev lsd: 3.8028199911117553
+INFO:root:dev ild diff: 1.00196605661641
+INFO:root:dev itd diff: 13.805205260152402
+INFO:root:Epoch 110
+INFO:root:tr_loss: 13.963318315310257, dev_loss: 17.72603697984115
+INFO:root:dev lsd: 3.7604128070499585
+INFO:root:dev ild diff: 0.9664310776669046
+INFO:root:dev itd diff: 13.927075723979785
+INFO:root:Epoch 111
+INFO:root:tr_loss: 13.981774574314324, dev_loss: 18.05083745873493
+INFO:root:dev lsd: 3.772462319291156
+INFO:root:dev ild diff: 0.9676795736603115
+INFO:root:dev itd diff: 14.280387411946835
+INFO:root:Epoch 112
+INFO:root:tr_loss: 13.976240769238538, dev_loss: 18.05644181707631
+INFO:root:dev lsd: 3.7853841750518136
+INFO:root:dev ild diff: 0.9815802597481271
+INFO:root:dev itd diff: 14.303489577251932
+INFO:root:Epoch 113
+INFO:root:tr_loss: 13.962042210327548, dev_loss: 17.68134940603505
+INFO:root:dev lsd: 3.7812039738116057
+INFO:root:dev ild diff: 0.9913836933996366
+INFO:root:dev itd diff: 13.950372716654902
+INFO:root:Epoch 114
+INFO:root:tr_loss: 13.949367641683075, dev_loss: 18.278056679601253
+INFO:root:dev lsd: 3.7588071595067563
+INFO:root:dev ild diff: 0.9723864234012106
+INFO:root:dev itd diff: 14.492214590570201
+INFO:root:Epoch 115
+INFO:root:tr_loss: 13.946847804835144, dev_loss: 18.335876891923988
+INFO:root:dev lsd: 3.7611502471177474
+INFO:root:dev ild diff: 0.9633990436792373
+INFO:root:dev itd diff: 14.540183620867522
+INFO:root:Epoch 116
+INFO:root:tr_loss: 13.95174228305548, dev_loss: 17.46028881072998
+INFO:root:dev lsd: 3.8013276587361875
+INFO:root:dev ild diff: 1.0101203704657762
+INFO:root:dev itd diff: 13.691138246785039
+INFO:root:Epoch 117
+INFO:root:tr_loss: 13.933072236941854, dev_loss: 18.079363354392672
+INFO:root:dev lsd: 3.7873459111089294
+INFO:root:dev ild diff: 0.986622552379318
+INFO:root:dev itd diff: 14.332781250580497
+INFO:root:Epoch 118
+INFO:root:tr_loss: 13.928275553033625, dev_loss: 17.67472623327504
+INFO:root:dev lsd: 3.76668746056764
+INFO:root:dev ild diff: 0.9882411448851876
+INFO:root:dev itd diff: 13.86523871836455
+INFO:root:Epoch 119
+INFO:root:tr_loss: 13.913337182710828, dev_loss: 17.96922600372978
+INFO:root:dev lsd: 3.757105102746383
+INFO:root:dev ild diff: 0.9559759041537409
+INFO:root:dev itd diff: 14.205452856810197
+INFO:root:Epoch 120
+INFO:root:tr_loss: 13.913760921604917, dev_loss: 18.115862614175548
+INFO:root:dev lsd: 3.7732787453609964
+INFO:root:dev ild diff: 0.9958747789911602
+INFO:root:dev itd diff: 14.379844462353251
+INFO:root:Epoch 121
+INFO:root:tr_loss: 13.9185315675179, dev_loss: 18.010778352488643
+INFO:root:dev lsd: 3.7884529165599656
+INFO:root:dev ild diff: 0.9523667367904083
+INFO:root:dev itd diff: 14.263790773308795
+INFO:root:Epoch 122
+INFO:root:tr_loss: 13.921754113625234, dev_loss: 17.551355171203614
+INFO:root:dev lsd: 3.7723913700684255
+INFO:root:dev ild diff: 0.9898226113423058
+INFO:root:dev itd diff: 13.769970184823741
+INFO:root:Epoch 123
+INFO:root:tr_loss: 13.903161685471563, dev_loss: 17.916363143920897
+INFO:root:dev lsd: 3.798104205338851
+INFO:root:dev ild diff: 1.0805952328702677
+INFO:root:dev itd diff: 14.097426493271538
+INFO:root:Epoch 124
+INFO:root:tr_loss: 13.906662401299121, dev_loss: 17.987438177025837
+INFO:root:dev lsd: 3.773598307111989
+INFO:root:dev ild diff: 1.1228117616280266
+INFO:root:dev itd diff: 14.262054443359375
+INFO:root:Epoch 125
+INFO:root:tr_loss: 13.899058530028437, dev_loss: 17.650443869051728
+INFO:root:dev lsd: 3.7673686131187107
+INFO:root:dev ild diff: 0.9586019596327906
+INFO:root:dev itd diff: 13.92421788961991
+INFO:root:Epoch 126
+INFO:root:tr_loss: 13.894034906172417, dev_loss: 17.863359990327254
+INFO:root:dev lsd: 3.7633485058079597
+INFO:root:dev ild diff: 0.9809432505265526
+INFO:root:dev itd diff: 14.127937870440276
+INFO:root:Epoch 127
+INFO:root:tr_loss: 13.894414171606481, dev_loss: 17.742609745523204
+INFO:root:dev lsd: 3.764426158822101
+INFO:root:dev ild diff: 0.9513724899810293
+INFO:root:dev itd diff: 14.015747035068014
+INFO:root:Epoch 128
+INFO:root:tr_loss: 13.840102037913363, dev_loss: 17.635132105454154
+INFO:root:dev lsd: 3.7581200433814006
+INFO:root:dev ild diff: 0.9681993282359579
+INFO:root:dev itd diff: 13.933067591293998
+INFO:root:Epoch 129
+INFO:root:tr_loss: 13.828202193891498, dev_loss: 17.77543654649154
+INFO:root:dev lsd: 3.7528843921163806
+INFO:root:dev ild diff: 1.0105885934570562
+INFO:root:dev itd diff: 14.051563045252925
+INFO:root:Epoch 130
+INFO:root:tr_loss: 13.831000867743848, dev_loss: 17.64888214443041
+INFO:root:dev lsd: 3.740865184949792
+INFO:root:dev ild diff: 0.9414425628340762
+INFO:root:dev itd diff: 13.959828416160915
+INFO:root:Epoch 131
+INFO:root:tr_loss: 13.807589757370517, dev_loss: 17.7705079368923
+INFO:root:dev lsd: 3.743417313824529
+INFO:root:dev ild diff: 1.0110262317501981
+INFO:root:dev itd diff: 14.057703553075376
+INFO:root:Epoch 132
+INFO:root:tr_loss: 13.81224563471988, dev_loss: 17.593528610727063
+INFO:root:dev lsd: 3.770516250444495
+INFO:root:dev ild diff: 1.1094726860523223
+INFO:root:dev itd diff: 13.8679208278656
+INFO:root:Epoch 133
+INFO:root:tr_loss: 13.794207521607458, dev_loss: 17.589476875636887
+INFO:root:dev lsd: 3.7367751536162004
+INFO:root:dev ild diff: 1.0090627364490343
+INFO:root:dev itd diff: 13.893938101892886
+INFO:root:Epoch 134
+INFO:root:tr_loss: 13.783192844697886, dev_loss: 17.592526680490245
+INFO:root:dev lsd: 3.7332631505053975
+INFO:root:dev ild diff: 1.0396466275920038
+INFO:root:dev itd diff: 13.871135630814926
+INFO:root:Epoch 135
+INFO:root:tr_loss: 13.819095386106003, dev_loss: 17.60919365260912
+INFO:root:dev lsd: 3.759401400192924
+INFO:root:dev ild diff: 0.985953661410705
+INFO:root:dev itd diff: 13.88799088726873
+INFO:root:Epoch 136
+INFO:root:tr_loss: 13.777026314610687, dev_loss: 17.807332602791163
+INFO:root:dev lsd: 3.7429172826849895
+INFO:root:dev ild diff: 0.9882619050533875
+INFO:root:dev itd diff: 14.106011846791143
+INFO:root:Early stopping at epoch 136
